@@ -1,0 +1,9 @@
+Version 1
+* Added Armor button in main menu.
+* Added armor images in Armor page.
+* Checking the checkboxes in the Armor page now changes the color to green.
+* Changed armor position in Armor page.
+* Added 'Tools' button in the main menu.
+* Added Tools page.
+* Added image of all tools in the Tools page.
+* Added tool enchants.
