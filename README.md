@@ -1,3 +1,18 @@
-# Enchanter-
-An minecraft tool that helps you enchant every weapon, tool or armor to the max.
-Just double-click the file, as simple as that.
+# Enchanter++
+WINDOWS CONFIRMED WORKING.
+
+Download Instructions:
+> Requires Java 7 or above https://www.java.com/ES/download/
+
+> Download the [latest version](https://github.com/qtchaos/EnchanterPlusPlus/releases) of Enchanter++.
+
+> Download the .jar file by clicking on it, then run it once it's finished downloading
+
+My Discord: **chaos#7756**
+
+## Credits
+chaos#7756: Coded all of this.
+
+terry.#8125: Helped fix major bugs.
+
+###### If you'd like to give me ideas or receive credit for something, message me on discord.
