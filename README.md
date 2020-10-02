@@ -2,7 +2,7 @@
 WINDOWS CONFIRMED WORKING.
 
 Download Instructions:
-> Requires Java 7 or above https://www.java.com/ES/download/
+> Requires Java 8 or above https://www.java.com/ES/download/
 
 > Download the [latest version](https://github.com/qtchaos/EnchanterPlusPlus/releases) of Enchanter++.
 
